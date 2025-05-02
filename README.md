@@ -1,0 +1,1 @@
+I have used multiple linear regression model to predict housing prices using a combination of structural attributes and location-based features. This model provides a solid foundation for housing price prediction and offers useful insights for real estate pricing strategies. 
